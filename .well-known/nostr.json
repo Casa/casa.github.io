@@ -1,0 +1,20 @@
+{
+  "names": {
+    "casa": "c761dc761dbe60d1879a9852bba96fee63eeab0d73911c55365c5ecf204949a2"
+  },
+  "relays": {
+    "c761dc761dbe60d1879a9852bba96fee63eeab0d73911c55365c5ecf204949a2": [
+      "wss://relay.damus.io",
+      "wss://relay.nostrich.de",
+      "wss://nostr.vulpem.com",
+      "wss://relay.nostr.band",
+      "wss://purplerelay.com",
+      "wss://relay.noswhere.com",
+      "wss://nostr.bitcoiner.social",
+      "wss://nos.lol",
+      "wss://nostr.wine",
+      "wss://relay.snort.social",
+      "wss://puravida.nostr.land"
+    ]
+  }
+}
