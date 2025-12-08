@@ -1,12 +1,14 @@
 {
   "names": {
     "casa": "c761dc761dbe60d1879a9852bba96fee63eeab0d73911c55365c5ecf204949a2",
-    "nneuman": "ca9c32f2f2be48ee17211acdb6da1791c4d1955038a8b2bad326a8f1cc818d37"
+    "nneuman": "ca9c32f2f2be48ee17211acdb6da1791c4d1955038a8b2bad326a8f1cc818d37",
+    "intern": "f10b14dbc552c3c65b490bbe2b070ea71522e5915b5b947e0cb5e1efc5a5928c"
   },
   "relays": {
     "c761dc761dbe60d1879a9852bba96fee63eeab0d73911c55365c5ecf204949a2": [
       "wss://relay.damus.io",
       "wss://relay.nostrich.de",
+      "wss://nostr-pub.wellorder.net",
       "wss://nostr.vulpem.com",
       "wss://relay.nostr.band",
       "wss://purplerelay.com",
@@ -15,18 +17,42 @@
       "wss://nos.lol",
       "wss://nostr.wine",
       "wss://relay.snort.social",
-      "wss://puravida.nostr.land"
+      "wss://nostr.bitcoiner.social",
+      "wss://puravida.nostr.land",
+      "wss://relay.primal.net",
+      "wss://relay.current.fyi"
     ],
     "ca9c32f2f2be48ee17211acdb6da1791c4d1955038a8b2bad326a8f1cc818d37": [
       "wss://relay.damus.io",
+      "wss://relay.nostrich.de",
       "wss://nostr-pub.wellorder.net",
+      "wss://nostr.vulpem.com",
       "wss://relay.nostr.band",
       "wss://purplerelay.com",
+      "wss://relay.noswhere.com",
       "wss://nostr.bitcoiner.social",
       "wss://nos.lol",
       "wss://nostr.wine",
       "wss://relay.snort.social",
       "wss://nostr.bitcoiner.social",
+      "wss://puravida.nostr.land",
+      "wss://relay.primal.net",
+      "wss://relay.current.fyi"
+    ],
+    "f10b14dbc552c3c65b490bbe2b070ea71522e5915b5b947e0cb5e1efc5a5928c": [
+      "wss://relay.damus.io",
+      "wss://relay.nostrich.de",
+      "wss://nostr-pub.wellorder.net",
+      "wss://nostr.vulpem.com",
+      "wss://relay.nostr.band",
+      "wss://purplerelay.com",
+      "wss://relay.noswhere.com",
+      "wss://nostr.bitcoiner.social",
+      "wss://nos.lol",
+      "wss://nostr.wine",
+      "wss://relay.snort.social",
+      "wss://nostr.bitcoiner.social",
+      "wss://puravida.nostr.land",
       "wss://relay.primal.net",
       "wss://relay.current.fyi"
     ]
